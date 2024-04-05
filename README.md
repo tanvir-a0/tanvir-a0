@@ -4,7 +4,13 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=40&duration=800&pause=1500&center=true&vCenter=true&multiline=true&random=false&width=1000&height=150&lines=I'm+just+another+human+exploring+the+Earth.;Welcome+to+my+GitHub!" alt="Typing SVG" /></p>
 
-
+<br>
+<br>
+<p align="center">
+<a href="https://github.com/tahsintariq" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-a0&layout=compact&title_color=78DCE8&text_color=A9DC76&icon_color=8FBCBB&border_color=78DCE8&bg_color=2E3440&card_width=400&langs_count=8&hide=Jupyter%20Notebook&border_radius=30&custom_title=My%20most%20used%20languages">
+</a>
+ </p>
 
 
 <!--
