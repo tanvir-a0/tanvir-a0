@@ -7,6 +7,30 @@
 <br>
 <br>
 
+# My Learning Journey
+
+Welcome to my learning journey repository! Here, I showcase the skills and knowledge I have acquired over the years.
+
+## Programming Languages
+- Python
+- C
+- C++
+- Dart
+
+## Projects
+### Hand Movement Tracking
+- Implemented using MediaPipe and OpenCV
+- Detects open palm movements and grip
+
+### UI Development
+- Using Python Flet
+
+### Video Editing
+- Using DaVinci Resolve
+
+## IoT Development
+- Using Google Firebase, MQTT, and TCP communication
+
 
 
 <!--
