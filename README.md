@@ -11,7 +11,7 @@
 
 
 <p align="left">
-  <img src="firebase.png" alt="Firebase Logo" width="100" style="border-radius: 15px; margin-right: 10px;"/>
+  <img src="firebase.png" alt="Firebase Logo" width="600" style="border-radius: 15px; margin-right: 10px;"/>
   I have been working with Google Firebase for various projects involving IoT devices, mobile applications, and web applications.
 </p>
 
