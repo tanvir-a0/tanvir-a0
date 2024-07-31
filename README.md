@@ -7,9 +7,13 @@
 <br>
 <br>
 
-**Tanvir** © 2024
 
 
+## Projects using Firebase
+
+![Firebase Logo](firebase.png)
+
+I have been working with Google Firebase for various projects involving IoT devices, mobile applications, and web applications. Below are some examples:
 
 
 <!--
@@ -26,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Tanvir** © 2024
