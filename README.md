@@ -10,8 +10,10 @@
 
 
 
-<img src="firebase.png" alt="Firebase Logo" width="300"/>
-I have been working with Google Firebase for various projects involving IoT devices, mobile applications, and web applications.
+<p align="left">
+  <img src="firebase.png" alt="Firebase Logo" width="100" style="border-radius: 15px; margin-right: 10px;"/>
+  I have been working with Google Firebase for various projects involving IoT devices, mobile applications, and web applications.
+</p>
 
 
 <!--
@@ -28,4 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br><br>
 **Tanvir** © 2024
