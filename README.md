@@ -12,6 +12,7 @@
 ## Projects using Firebase
 
 ![Firebase Logo](firebase.png)
+<img src="firebase.png" alt="Firebase Logo" width="200"/>
 
 I have been working with Google Firebase for various projects involving IoT devices, mobile applications, and web applications. Below are some examples:
 
