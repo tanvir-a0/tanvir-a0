@@ -13,11 +13,11 @@
 ### About Me 🌍
 
 - 🔭 I’m currently working on [IHABOT 2](#)
-- 🌱 I’m learning Machine Learning, Deep Learning, and ROS
-- 🤖 I enjoy integrating UI design, ML, programming, microcontrollers, and robotics
-- 💬 Ask me about IoT, C++, Python, Dart, and anything tech-related!
-- 🛠️ Always exploring new technologies: [Raspberry Pi](#), [ESP32](#), and [Arduino](#)
 - 🚴 I love cycling and exploring new places on two wheels
+- 🤖 I enjoy integrating UI design, ML, programming, microcontrollers, 3D CAD and robotics
+- 💬 Ask me about IoT, C++, Python, Robotics, and anything tech-related!
+- 🛠️ Always try to explore new technologies.
+- 🌱 I’m learning Machine Learning, Deep Learning, and ROS
 
 ---
 
@@ -36,8 +36,9 @@
 ### Projects 💻
 
 - [IHABOT 2](#) – A robot for medication delivery and patient exercise evaluation
-- [Local Network Messaging](#) – Offline messaging system using Python Flet
-- [Hand Tracking](#) – OpenCV + MediaPipe-based movement tracking
+- [IHABOT 2 UI](#) – The software that helps IHABOT2 run
+- [IHABOT 2 Design and Hardware](#) – I, along with others, helped design and build the IHABOT2
+- [Hand Tracking](#) – MediaPipe-based movement tracking.
 
 ---
 
