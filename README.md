@@ -43,8 +43,8 @@
 
 ### Connect with Me 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvir_Ahmed-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanvir-ahmed/)
-[![Gmail](https://img.shields.io/badge/Email-tanvir@gmail.com-red?style=flat-square&logo=gmail)](mailto:tanvir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvir_Ahmed-blue?style=flat-square&logo=linkedin)](https:https://www.linkedin.com/in/tanvir-ahmed-67b5a8199/)
+[![Gmail](https://img.shields.io/badge/Email-tanvir@gmail.com-red?style=flat-square&logo=gmail)](mailto:t.a.prova@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-ff69b4?style=flat-square&logo=gitbook)](#)
 
 ---
