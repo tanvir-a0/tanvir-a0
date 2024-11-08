@@ -24,8 +24,7 @@
 ### GitHub Stats 📊
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanvir-a0&show_icons=true&theme=radical&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-a0&theme=radical&background=45%2Cfc00ff%2C00dbde&stroke=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+ ![tanvir-a0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-a0&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 
