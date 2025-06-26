@@ -47,6 +47,12 @@
 [![Gmail](https://img.shields.io/badge/Email-tanvir@gmail.com-red?style=flat-square&logo=gmail)](mailto:t.a.prova@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-ff69b4?style=flat-square&logo=gitbook)](#)
 
+### Things I worked on 🌣
+
+
+![image](https://github.com/user-attachments/assets/c65d0ba5-87fa-44bb-b684-7b9895c42950)
+
+
 ---
 
 **Tanvir Ahmed** © 2024
