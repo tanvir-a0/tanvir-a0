@@ -50,7 +50,7 @@
 ### Things I worked on 🌣
 
 
-![image](https://github.com/user-attachments/assets/c65d0ba5-87fa-44bb-b684-7b9895c42950)
+![image](https://github.com/user-attachments/assets/0cdee54b-a9cd-43cf-b67e-c1237ee1c1f3)
 
 
 ---
