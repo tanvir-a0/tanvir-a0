@@ -13,7 +13,7 @@
 ### About Me 🌍
  I am a Robotics and Mechatronics Engineering student with practical expertise in hardware and software integration. I have hands on experience in PCB design and developing IoT enabled systems. During my university career, I have worked on various projects ranging from purely software-based applications to integrated hardware–software platforms with IoT features, as well as standalone hardware and embedded systems. I have also contributed as a research assistant, mentored students in robotics competitions, and continuously explore new technologies to expand my skill set and apply them to real-world engineering challenges.
  <br>
-- 🔭 I’m currently working on [IHABOT 2](#)
+- 🔭 I just completed [IHABOT 2](#)
 - 🚴 I love cycling and exploring new places on two wheels
 - 🤖 I enjoy integrating UI design, ML, programming, microcontrollers, 3D CAD and robotics
 - 💬 Ask me about IoT, C++, Python, Robotics, and anything tech-related!
