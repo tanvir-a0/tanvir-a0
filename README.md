@@ -33,9 +33,9 @@
 
 ### Projects 💻
 
-- [IHABOT 2](#) – A robot for medication delivery and patient exercise evaluation
-- [IHABOT 2 UI](#) – The software that helps IHABOT2 run
-- [IHABOT 2 Design and Hardware](#) – I, along with others, helped design and build the IHABOT2
+- [IHABOT 2](#) – A robot for medication delivery and patient exercise evaluation.
+- [IHABOT 2 UI](#) – The software that helps IHABOT2 run and function properly. 
+- [IHABOT 2 Design and Hardware](#) – I, along with others, helped design and build the IHABOT2.
 - [Hand Tracking](#) – MediaPipe-based movement tracking.
 
 ---
